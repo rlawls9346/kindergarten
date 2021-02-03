@@ -21,7 +21,7 @@ button { outline: none;}
     transform: translate(-50%);}
 .slide_group .slick-dots li { display: inline-block; margin: 0 5px;}
 .slide_group .slick-dots li button { width: 13px; height: 13px;
-    border-radius: 50%; background:orange; border: none; 
+    border-radius: 50%; background:orange; border:2px solid orange; 
     color: transparent;}
 .slide_group .slick-dots li.slick-active button{ background:none; border: 2px solid orange;}
 
